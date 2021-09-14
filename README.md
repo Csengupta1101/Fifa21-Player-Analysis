@@ -1,3 +1,5 @@
+![Project](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Fifa.jpg)
+
 # Fifa21 Player Analysis
 This analysis mostly comprises the visualization of fifa players across clubs , countries and continents. Hoping this to be a treat to your eyes.
 
