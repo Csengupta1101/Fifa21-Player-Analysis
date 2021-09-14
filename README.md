@@ -1,1 +1,1 @@
-#[center] Fifa21 Player Analysis
+[center] # Fifa21 Player Analysis
