@@ -22,5 +22,5 @@ The workflow indicates general sequence of how each stage may follow the other. 
 
 As said earlier this analysis comprises of players and their best and worst attributes. So the best way to analyze here is to visualize -
 
-
+![fifa](D:\Data Science Material\Github\b)
 
