@@ -22,4 +22,13 @@ The workflow indicates general sequence of how each stage may follow the other. 
 
 As said earlier this analysis comprises of players and their best and worst attributes. So the best way to analyze here is to visualize -
 
-
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis1.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis10.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis11.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis12.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis13.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis2.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis3.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis4.png)
+![fifa](https://github.com/Csengupta1101/Fifa21-Player-Analysis/blob/main/Player_Analysis5.png)
