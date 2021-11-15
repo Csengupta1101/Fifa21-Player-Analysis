@@ -5,7 +5,7 @@ This analysis mostly comprises the visualization of fifa players across clubs , 
 
 ## Workflow 
 
-The Competition solution workflow goes through seven stages described in the Data Science Solutions book.
+The Competition solution workflow goes through seven stages described in the Data Science Solution book.
 
 1. Question or problem definition.
 2. Acquire training and testing data.
